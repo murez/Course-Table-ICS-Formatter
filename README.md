@@ -33,7 +33,7 @@ Just drag this [INSTALL] button to your favorites of your browser.
 
 非常简单，将下面的安装按钮拖到收藏夹就可以了。
 
-[![Export Course Table](installbutton.png) Export Course Table](javascript:void(function(u,s){s=document.body.appendChild(document.createElement('script'));s.src=u+'?ts='+Date.now();s.charset='UTF-8'}('https://dokidokitreehouse.club/station/dist.js')))
+[![Export Course Table](installbutton.png) Export Course Table](javascript:void(function(u,s){s=document.body.appendChild(document.createElement('script'));s.src=u+'?ts='+Date.now();s.charset='UTF-8'}('https://raw.githubusercontent.com/murez/Course-Table-ICS-Formatter/master/dist.js')))
 
 Or copy these code into your navigation panel. Remember add ```javascript:``` before the code after paste
 
